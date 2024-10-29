@@ -1,0 +1,95 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.start-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #333;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+.start-button:hover {
+    background-color: #555;
+}
+
+/* Specific backgrounds for each page */
+.page1 {
+    background-image: url('images/Untitled-1.png'); /* Changed to .png */
+}
+
+.page2 {
+    background-image: url('images/Untitled-2.png'); /* Changed to .png */
+}
+
+.page3 {
+    background-image: url('images/Untitled-3.png'); /* Changed to .png */
+}
+
+.page4 {
+    background-image: url('images/Untitled-4.png'); /* Changed to .png */
+}
+
+.page5 {
+    background-image: url('images/Untitled-5.png'); /* Changed to .png */
+}
+
+.page6 {
+    background-image: url('images/Untitled-6.png'); /* Changed to .png */
+}
+
+.page7 {
+    background-image: url('images/Untitled-7.png'); /* Changed to .png */
+}
+
+.page8 {
+    background-image: url('images/Untitled-8.png'); /* Changed to .png */
+}
+
+.page9 {
+    background-image: url('images/Untitled-9.png'); /* Changed to .png */
+}
+
+.page10 {
+    background-image: url('images/Untitled-10.png'); /* Changed to .png */
+}
+
+.page11 {
+    background-image: url('images/Untitled-11.png'); /* Changed to .png */
+}
+
+.page12 {
+    background-image: url('images/Untitled-12.png'); /* Changed to .png */
+}
+
+.page13 {
+    background-image: url('images/Untitled-13.png'); /* Changed to .png */
+}
+
+.page14 {
+    background-image: url('images/Untitled-14.png'); /* Changed to .png */
+}
+
+.page15 {
+    background-image: url('images/Untitled-15.png'); /* Changed to .png */
+}
